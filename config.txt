@@ -7,4 +7,4 @@ token = naFddX2ZNF9IcHhMrM2llA==
 port = 19091
 
 # space limit (Maximum allowable space for Terminal in GB. Less than the total disk. At least 40 GB)
-spacelimit = 400
+spacelimit = 40
